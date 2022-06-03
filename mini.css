@@ -1,0 +1,110 @@
+body{
+    width:500px;
+   height:500px;
+
+}
+
+h1{
+   position:absolute;
+   width:453px;
+   height:43px;
+   left:68px;
+   top:10px;
+   font-family:Poppins;
+   font-style:normal;
+   font-weight:500;
+   font-size:100px;
+   line-height:72px;
+   color:#000000;
+}
+p{
+   position: absolute;
+   width: 115px;
+   height: 85px;
+   left: -16px;
+   top: 222px;
+}
+y{
+   position: absolute;
+   width: 480px;
+   height: 291px;
+   left: 960px;
+   top: 190px;
+}
+x{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 855px;
+   top: 340px;
+}
+m{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 1060px;
+   top: 530px;
+}
+n{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 896px;
+   top: 450px;
+}o{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 1250px;
+   top: 340px;
+}v{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 1226px;
+   top: 460px;
+}
+w{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 1250px;
+   top: 260px;
+}
+e{
+   position: absolute;
+width: 80px;
+height: 80px;
+left: 950px;
+   top: 260px;
+}
+button{
+   position: absolute;
+width: 80px;
+height: 80px;
+border: none;
+left: 1250px;
+top: 260px;
+  background-color: #EC3636;
+}
+k{
+   position: absolute;
+   width: 65px;
+   height: 35px;
+   left: 750px;
+   top: 0px;
+}
+z{ position: absolute;
+   width: 65px;
+   height: 35px;
+   left: 915px;
+   top: 180px;
+
+}
+f{
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   left: 915px;
+   top: 140px;
+}
