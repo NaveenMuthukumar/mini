@@ -28,8 +28,8 @@ y{
    position: absolute;
    width: 480px;
    height: 291px;
-   left: 960px;
-   top: 190px;
+   left: 1035px;
+   top: 240px;
 }
 x{
    position: absolute;
@@ -49,8 +49,8 @@ n{
    position: absolute;
    width: 80px;
    height: 80px;
-   left: 896px;
-   top: 450px;
+   left: 900px;
+   top: 460px;
 }o{
    position: absolute;
    width: 80px;
@@ -70,6 +70,7 @@ w{
    height: 80px;
    left: 1250px;
    top: 260px;
+   background-color: #34AAA3;
 }
 e{
    position: absolute;
@@ -85,7 +86,7 @@ height: 80px;
 border: none;
 left: 1250px;
 top: 260px;
-  background-color: #EC3636;
+  background-color:#34AAA3;
 }
 k{
    position: absolute;
